@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start_button_text">Start</string>
+    <string name="highscore_button_text">High Score</string>
+    <string name="option">Option</string>
+    <string name="who_pokemon">Who\'s that Pokemon?</string>
+    <string name="scoreFile">HighScores</string>
+    <string name="first">1st Place: </string>
+    <string name="second">2nd Place: </string>
+    <string name="third">3rd Place: </string>
+</resources>

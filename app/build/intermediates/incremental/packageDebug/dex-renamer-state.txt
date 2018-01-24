@@ -1,0 +1,7 @@
+#Fri Sep 22 14:12:23 EDT 2017
+base.0=C\:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8771c2da9dcb65245150c64b30673840960a5d5b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_90f51c832da92a8a49365d4c6c57afdb520be047\\classes.dex
+base.1=C\:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_90f51c832da92a8a49365d4c6c57afdb520be047
+file.0=C\:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8771c2da9dcb65245150c64b30673840960a5d5b\\classes.dex

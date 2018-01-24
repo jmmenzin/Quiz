@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\311d0a549d83fca9e01005a39a40bff8d30b6e00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eb0263ba7dbf6935a9a396ece24ed017edbb6db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\71a5835cf3610014c08175d8d083db0c78005677\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b32acf8df319f5863c2c27deadafc4e5d63f4f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\394f03f2c0a367b3a6d035ad4d35f46698c2e8e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a6a08a21016348fd6e0871003559073ef04f681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f673fbb4b061f9defa07bd418c4d354a467e67a">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8771c2da9dcb65245150c64b30673840960a5d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45ccb33fd2e7ab19b9b7fc2296b4a38ca35102eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_90f51c832da92a8a49365d4c6c57afdb520be047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\62d38407a9c4cf3a89c7e109a351245810295c4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_207f8f9fc83acf64c5531f58a703ffa06fac67de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\880f7084e4939ab1aa2ff21d021c28fa8bc51b5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fb95b9139782d8b1dc35e8eb4326d29540a5287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\c1d3ead4ce0ab79995960b5b8733927d36c751d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96325ac85ba7c29be52a469fa035b5163059188b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4367be92b1b921dcd0daa8ce1a28f3ea5636f703\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\9c47abd0eb35aa5588bb5c3b8af8f7dae7d16e63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19f46fdca526f49e30349bb92faaa2aaa7d056c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_a0c247ac969b5d8daff543e10619fa34e3e46f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\23f6224628bde91edc5aba3420a7cb70088defb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17ad6c32bb143028228b966d274f9430961a5fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeff\.android\build-cache\7c64bfb143bfc77c43be5b6229512051072c7d70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba56851f2d18da4fc83a4e34631e052b0c6f1014\classes.dex" />
+    </item>
+
+</items>

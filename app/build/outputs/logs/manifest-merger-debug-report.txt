@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\311d0a549d83fca9e01005a39a40bff8d30b6e00\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\71a5835cf3610014c08175d8d083db0c78005677\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\23f6224628bde91edc5aba3420a7cb70088defb3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\c1d3ead4ce0ab79995960b5b8733927d36c751d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\880f7084e4939ab1aa2ff21d021c28fa8bc51b5c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\394f03f2c0a367b3a6d035ad4d35f46698c2e8e3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\7c64bfb143bfc77c43be5b6229512051072c7d70\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\62d38407a9c4cf3a89c7e109a351245810295c4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jeff\.android\build-cache\9c47abd0eb35aa5588bb5c3b8af8f7dae7d16e63\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.pokemonquiz.MainActivity
+ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\311d0a549d83fca9e01005a39a40bff8d30b6e00\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\71a5835cf3610014c08175d8d083db0c78005677\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\23f6224628bde91edc5aba3420a7cb70088defb3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\c1d3ead4ce0ab79995960b5b8733927d36c751d5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\880f7084e4939ab1aa2ff21d021c28fa8bc51b5c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\394f03f2c0a367b3a6d035ad4d35f46698c2e8e3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\7c64bfb143bfc77c43be5b6229512051072c7d70\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\62d38407a9c4cf3a89c7e109a351245810295c4e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jeff\.android\build-cache\9c47abd0eb35aa5588bb5c3b8af8f7dae7d16e63\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeff\Google Drive\Programming Projects\PokemonQuiz\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\311d0a549d83fca9e01005a39a40bff8d30b6e00\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\71a5835cf3610014c08175d8d083db0c78005677\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\23f6224628bde91edc5aba3420a7cb70088defb3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\c1d3ead4ce0ab79995960b5b8733927d36c751d5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\880f7084e4939ab1aa2ff21d021c28fa8bc51b5c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\394f03f2c0a367b3a6d035ad4d35f46698c2e8e3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\7c64bfb143bfc77c43be5b6229512051072c7d70\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\62d38407a9c4cf3a89c7e109a351245810295c4e\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jeff\.android\build-cache\db429cb0f4739394a521a6baeb0f1311937115ff\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jeff\\Documents\\Android Projects\\PokemonQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jeff\\Documents\\Android Projects\\PokemonQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeff\\Documents\\Android Projects\\PokemonQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Jeff\\Documents\\Android Projects\\PokemonQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Jeff\\Google Drive\\Programming Projects\\PokemonQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
